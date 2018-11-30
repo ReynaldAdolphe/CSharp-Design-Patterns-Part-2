@@ -1,0 +1,35 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.pdb
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch08\08_03\Begin\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.deps.json
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch08\08_03\Begin\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.runtimeconfig.json
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch08\08_03\Begin\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch08\08_03\Begin\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.dll
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch08\08_03\Begin\ChainOfResp\bin\Debug\netcoreapp1.1\ChainOfResp.pdb
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch08\08_03\Begin\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch08\08_03\Begin\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.dll
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch08\08_03\Begin\ChainOfResp\obj\Debug\netcoreapp1.1\ChainOfResp.pdb

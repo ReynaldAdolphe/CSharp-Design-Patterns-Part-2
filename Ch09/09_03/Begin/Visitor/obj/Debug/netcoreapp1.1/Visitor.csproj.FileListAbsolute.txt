@@ -1,0 +1,9 @@
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_03\Begin\Visitor\bin\Debug\netcoreapp1.1\Visitor.deps.json
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_03\Begin\Visitor\bin\Debug\netcoreapp1.1\Visitor.runtimeconfig.json
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_03\Begin\Visitor\bin\Debug\netcoreapp1.1\Visitor.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_03\Begin\Visitor\bin\Debug\netcoreapp1.1\Visitor.dll
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_03\Begin\Visitor\bin\Debug\netcoreapp1.1\Visitor.pdb
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_03\Begin\Visitor\obj\Debug\netcoreapp1.1\Visitor.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_03\Begin\Visitor\obj\Debug\netcoreapp1.1\Visitor.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_03\Begin\Visitor\obj\Debug\netcoreapp1.1\Visitor.dll
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_03\Begin\Visitor\obj\Debug\netcoreapp1.1\Visitor.pdb

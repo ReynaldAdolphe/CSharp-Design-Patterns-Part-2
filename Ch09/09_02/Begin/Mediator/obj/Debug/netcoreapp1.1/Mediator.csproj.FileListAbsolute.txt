@@ -1,0 +1,18 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\Mediator\bin\Debug\netcoreapp1.1\Mediator.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\Mediator\bin\Debug\netcoreapp1.1\Mediator.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\Mediator\bin\Debug\netcoreapp1.1\Mediator.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\Mediator\bin\Debug\netcoreapp1.1\Mediator.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\Mediator\bin\Debug\netcoreapp1.1\Mediator.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\Mediator\obj\Debug\netcoreapp1.1\Mediator.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\Mediator\obj\Debug\netcoreapp1.1\Mediator.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\Mediator\obj\Debug\netcoreapp1.1\Mediator.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\Mediator\obj\Debug\netcoreapp1.1\Mediator.pdb
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_02\Begin\Mediator\bin\Debug\netcoreapp1.1\Mediator.deps.json
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_02\Begin\Mediator\bin\Debug\netcoreapp1.1\Mediator.runtimeconfig.json
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_02\Begin\Mediator\bin\Debug\netcoreapp1.1\Mediator.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_02\Begin\Mediator\bin\Debug\netcoreapp1.1\Mediator.dll
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_02\Begin\Mediator\bin\Debug\netcoreapp1.1\Mediator.pdb
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_02\Begin\Mediator\obj\Debug\netcoreapp1.1\Mediator.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_02\Begin\Mediator\obj\Debug\netcoreapp1.1\Mediator.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_02\Begin\Mediator\obj\Debug\netcoreapp1.1\Mediator.dll
+C:\Users\Reynald Adolphe\Documents\Exercise Files - DP2\Ch09\09_02\Begin\Mediator\obj\Debug\netcoreapp1.1\Mediator.pdb
